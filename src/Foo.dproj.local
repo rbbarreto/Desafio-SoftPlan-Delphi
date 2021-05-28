@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/24 17:30:57.000.155,=C:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/24 17:31:22.000.990,C:\Projetos\appmanutencao-master\src\Unit1.pas=C:\Projetos\appmanutencao-master\src\Gerenciador.Exception.pas</Transaction>
+    <Transaction>2021/03/24 23:02:45.000.620,=C:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/24 23:03:23.000.142,C:\Projetos\appmanutencao-master\src\Unit1.dfm=C:\Projetos\appmanutencao-master\src\Threads.dfm</Transaction>
+    <Transaction>2021/03/24 23:03:23.000.142,C:\Projetos\appmanutencao-master\src\Unit1.pas=C:\Projetos\appmanutencao-master\src\Threads.pas</Transaction>
+  </Transactions>
+</BorlandProject>
